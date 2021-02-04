@@ -1,4 +1,4 @@
 Historical Whaling Analysis
 =========
 
-This is a test repo
+a repository for historical whaling data and analysis
